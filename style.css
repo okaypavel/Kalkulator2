@@ -16,11 +16,11 @@
 .grid-item-disable {
     background-color: #2196F3;
     border: none;
-    color: pink;
+    color: black;
 }
 #inputShowScore {
     border: none;
-    border-bottom: pink solid 1px;
+    border-bottom: black solid 1px;
     width: 96%;
     display: block;
     margin: 0 auto;
